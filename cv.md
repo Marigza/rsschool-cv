@@ -25,7 +25,10 @@ My purpose is to learn and grow into a top-grade frontend developer.
 ## Experience
 I have a little experience in development. In march 2023 I has successfully graduated pre-school stage at RS-School. Previously, I worked as an accountant (cash desk, bank, suppliers, contractors, salaries, taxes, fixed assets) and a tax inspector (desk audits of the correctness of VAT calculations).
 ## Progects
-
+* [Travel](https://marigza.github.io/layouts-2Q2022/travel/)
+* [OnlineZoo](https://marigza.github.io/layout-3Q2022/online-zoo/pages/main/)
+* [Momentum](https://marigza.github.io/layouts-2Q2022/momentum/stage1-tasks-momentum)
+* [Eldritch-Horror](https://marigza.github.io/layouts-2Q2022/codejam-eldritch/)
 ## Education
 1. Novosibirsk State Technical University (NSTU), 2006
 	* Engineer
