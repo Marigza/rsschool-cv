@@ -6,7 +6,11 @@
 * Github: Marigza
 
 ## About myself
+My work experience has taught me how to interact with a team, work with large amounts of information and separate the main from the secondary.
 
+After moving to another city, there was a desire to try myself in other areas of activity. I came to programming after communication and recommendations from friends and acquaintances. This area contains a lot of new, constantly changing information, which allows the neural connections in the head to work. 
+
+My purpose is to learn and grow into a top-grade frontend developer.
 ## Skills
 * GIT
 * HTML
@@ -19,7 +23,7 @@
 
 ```
 ## Experience
-
+I have a little experience in development. In march 2023 I has successfully graduated pre-school stage at RS-School. Previously, I worked as an accountant (cash desk, bank, suppliers, contractors, salaries, taxes, fixed assets) and a tax inspector (desk audits of the correctness of VAT calculations).
 ## Progects
 
 ## Education
